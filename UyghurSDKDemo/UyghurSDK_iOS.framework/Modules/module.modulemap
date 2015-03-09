@@ -1,0 +1,6 @@
+framework module UyghurSDK_iOS {
+  umbrella header "UyghurSDK_iOS.h"
+
+  export *
+  module * { export * }
+}
